@@ -1,0 +1,10 @@
+bin
+var
+zeoserver
+lib
+pyvenv.cfg
+parts
+develop-eggs
+src
+.mr.developer.cfg
+.installed.cfg
